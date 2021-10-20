@@ -5,4 +5,5 @@ Neil Pandey
 Chris Mohri
 Blientz
 
-Code of Conduct: 
+Code of Conduct: Contributor Covenant used since the project is small and is the recommended CoC for most projects. Since the Citizen Code of Conduct is recommended for large communities/events, it seemed unfitting. 
+License: Creative Commons used since the project is basic and non-monetizable.
