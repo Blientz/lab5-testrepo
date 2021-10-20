@@ -4,3 +4,5 @@ Asks for name and number of apples wanted then prints back a statement
 Neil Pandey
 Chris Mohri
 Blientz
+
+Code of Conduct: 
